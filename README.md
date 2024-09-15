@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @AestroFidelium
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AestroFidelium/AestroFidelium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Rust, Python, and SC2 Engine
+- 🌱 I’m currently learning reverse engineering and modding
+- 💞️ I’m looking to collaborate on blizzard?
+- 📫 How to reach me discord: @aestrofidelium
+                     email: aestrofidelium@gmail.com
+                     telegram: @aestrofidelium
